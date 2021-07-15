@@ -9,3 +9,6 @@ The required packages can be installed:
 - pip install face-recognition
 - pip install cmake
 - pip install dlib
+
+### Test Image
+![Test Image](Test_img.png)
